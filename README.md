@@ -12,4 +12,4 @@ Here is the code for multimodal emotion recognition.
 
 #bi_test.py/bi_test_base.py/bi_test_vc.py is the code for the weighted experiment.
 
-This dataset is based on IEMOCAP data set (https://sail.usc.edu/iemocap/iemocap_publication.htm),Code for head fusion(https://github.com/lessonxmk/head_fusion) and area attention(https://github.com/lessonxmk/Optimized_attention_for_SER). The bert model is based on Bert (https://github.com/google-research/bert).
+This dataset is based on IEMOCAP data set (https://sail.usc.edu/iemocap/iemocap_publication.htm). Code for head fusion(https://github.com/lessonxmk/head_fusion) and area attention(https://github.com/lessonxmk/Optimized_attention_for_SER). The bert model is based on Bert (https://github.com/google-research/bert).
